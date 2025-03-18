@@ -15,4 +15,4 @@
 
 
 ### Contact Me
-<a href="https://www.linkedin.com/in/albert-rueda/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Albert%Rueda-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/albert-rueda/"></a>
